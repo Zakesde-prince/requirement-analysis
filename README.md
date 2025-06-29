@@ -22,3 +22,19 @@ Here are 3 key reasons:
 
 3. **Improves User Satisfaction**  
    If the final product matches what users want and expect, they’ll be happier and more likely to use it.
+## Key Activities in Requirement Analysis
+
+- **Requirement Gathering**  
+  Collect information from stakeholders (clients, users, etc.).
+
+- **Requirement Elicitation**  
+  Use interviews, surveys, workshops, etc. to draw out the real needs of users.
+
+- **Requirement Documentation**  
+  Write everything down clearly so everyone understands the same thing.
+
+- **Requirement Analysis and Modeling**  
+  Break down, review, and model requirements using tools (e.g., diagrams).
+
+- **Requirement Validation**  
+  Confirm that requirements are correct, complete, and agreed on by all.
