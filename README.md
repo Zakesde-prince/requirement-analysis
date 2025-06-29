@@ -38,3 +38,21 @@ Here are 3 key reasons:
 
 - **Requirement Validation**  
   Confirm that requirements are correct, complete, and agreed on by all.
+## Types of Requirements
+
+### Functional Requirements
+
+These describe **what the system should do**:
+
+- Users should be able to search for available properties.
+- Users can book a property using the checkout system.
+- Admins can add, edit, or remove property listings.
+
+### Non-functional Requirements
+
+These describe **how the system performs**:
+
+- The site should load within 3 seconds (performance).
+- The system should be available 99.9% of the time (reliability).
+- All user data must be encrypted (security).
+- The system must support mobile devices (usability).
