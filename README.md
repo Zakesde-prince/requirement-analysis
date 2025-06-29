@@ -1,2 +1,2 @@
-# requirement-analysis
- requirement-analysis repository is to explain and document what Requirement Analysis is, why it's important in software development, what key activities are involved, and to give practical examples using a booking system — including diagrams and criteria used to define successful features.
+# Requirement-Analysis in Software Development
+This repository contains detailed information and examples related to Requirement Analysis in the Software Development Life Cycle (SDLC). It explains what Requirement Analysis is, why it's important, and includes use cases and diagrams to help understand the process better.
