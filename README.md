@@ -61,3 +61,15 @@ These describe **how the system performs**:
 Use case diagrams help visualize how users (actors) interact with a system. They show what functions (use cases) each user can perform.
 
 ![Use Case Diagram]( alx-booking-uc.png)
+## Acceptance Criteria
+
+Acceptance Criteria are the conditions that must be met for a feature to be considered "done" and acceptable to the client or product owner.
+
+They help ensure that the development team understands exactly what needs to be delivered.
+
+### Example: Checkout Feature – Acceptance Criteria
+
+- The user can add payment details and confirm a booking.
+- The system displays a success message after booking.
+- Booking details are saved in the database.
+- User receives a confirmation email within 1 minute.
