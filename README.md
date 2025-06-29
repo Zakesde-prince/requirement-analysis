@@ -56,3 +56,8 @@ These describe **how the system performs**:
 - The system should be available 99.9% of the time (reliability).
 - All user data must be encrypted (security).
 - The system must support mobile devices (usability).
+## Use Case Diagrams
+
+Use case diagrams help visualize how users (actors) interact with a system. They show what functions (use cases) each user can perform.
+
+![Use Case Diagram](alx-booking-uc.png)
