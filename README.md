@@ -10,3 +10,15 @@ This phase is part of the Software Development Life Cycle (SDLC) and involves co
 - Helps define **what** the system should do
 - Avoids misunderstandings between users and developers
 - Saves time and money by reducing errors early
+## Why is Requirement Analysis Important?
+
+Here are 3 key reasons:
+
+1. **Prevents Project Failure**  
+   Poor requirements are one of the main reasons software projects fail. Requirement Analysis makes sure everyone is on the same page.
+
+2. **Reduces Development Costs**  
+   Catching issues early means less time fixing things later, which saves money.
+
+3. **Improves User Satisfaction**  
+   If the final product matches what users want and expect, they’ll be happier and more likely to use it.
